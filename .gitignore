@@ -59,7 +59,7 @@ venv.bak/
 .env.development.local
 .env.test.local
 .env.production.local
-
+trae-logs.md
 # IDE
 .vscode/
 .idea/
